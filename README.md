@@ -19,9 +19,8 @@ JAVA, AWS를 이용한 블랙잭 멀티플레이 콘솔 구현<br/>
 <br/>
 
 **4. 시연 영상**<br/>
-https://youtu.be/K167Y1hjemU<br/>
+https://youtu.be/RHqnr_GjZLA<br/>
 <br/>
-
 **5. 팀원**
 <table>
 <thead>
